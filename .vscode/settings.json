@@ -1,6 +1,8 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "D:\\.vscode\\java2023\\javax.mail-api-1.6.2.jar"
+        // "D:\\.vscode\\java2023\\javax.mail-api-1.6.2.jar",
+        "D:\\.vscode\\java2023\\mail-1.4.7.jar",
+        "D:\\.vscode\\java2023\\activation-1.1.1.jar"
     ]
 }
